@@ -1,4 +1,4 @@
-﻿@using Application.Features.User.Models
+@using Application.Features.User.Models
 @model UserDTO
 @{
     Layout = "_Layout";
@@ -58,7 +58,7 @@
 
         <Select asp-for="StreetId" asp-items="@ViewBag.Countries">
 
-                <option selected="selected">اختر</option>
+                <option selected="selected">Select</option>
                 
             </Select>
 
@@ -66,7 +66,7 @@
 
 
 
-    <input type="submit" class="btn btn-primary btn-main-bg m-1" value="حفظ" />
+    <input type="submit" class="btn btn-primary btn-main-bg m-1" value="Save" />
 
     <a href="@Url.ActionLink("index")" aria-expanded="false" 
     class="btn btn-primary bg-primary-700 text-white btn-icon rounded-circle mx-1 waves-effect waves-themed" 
