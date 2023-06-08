@@ -1,0 +1,101 @@
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\bin\Debug\net6.0\Application.dll
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\bin\Debug\net6.0\Application.pdb
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\Github DotNet Projects\CodeNameRed\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\bin\Debug\net6.0\Application.dll
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\bin\Debug\net6.0\Domain.dll
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\bin\Debug\net6.0\Application.pdb
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\bin\Debug\net6.0\Domain.pdb
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+E:\Net Core Projects\_Task\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\bin\Debug\net6.0\Application.dll
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\bin\Debug\net6.0\Application.pdb
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\bin\Debug\net6.0\ar-EG\Application.resources.dll
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\bin\Debug\net6.0\en-US\Application.resources.dll
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\bin\Debug\net6.0\Application.dll
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\bin\Debug\net6.0\Application.pdb
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\bin\Debug\net6.0\ar-EG\Application.resources.dll
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\bin\Debug\net6.0\en-US\Application.resources.dll
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\Github DotNet Projects\EvaluationTask\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\moshaban\Documents\GitHub\EvaluationTask\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\bin\Debug\net6.0\Application.dll
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\bin\Debug\net6.0\Domain.dll
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\bin\Debug\net6.0\Application.pdb
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\bin\Debug\net6.0\Domain.pdb
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\bin\Debug\net6.0\ar-EG\Application.resources.dll
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\bin\Debug\net6.0\en-US\Application.resources.dll
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+F:\.NET 2023\OnlineCourses-FluentValidatorBranch\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
