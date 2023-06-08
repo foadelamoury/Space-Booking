@@ -54,7 +54,7 @@ public class CountryController : Controller
     #region Create
     public async Task<ActionResult> CreateAsync()
     {
-        ViewBag.Countries = new SelectList(await _mediator.Send(new GetAllCountryQuery() { parentId = 0 }), "Id", "NameA");
+        ViewBag.Countries = new SelectList(await _mediator.Send(new GetAllCountryQuery() { parentId = 0 }), "Id", "Name");
 
         return PartialView("Form", new CountryDTO { Active = true, CreateDate = DateTime.Now });
     }
@@ -65,7 +65,7 @@ public class CountryController : Controller
     #region Edit
     public async Task<IActionResult> Edit(long id)
     {
-        ViewBag.Countries = new SelectList(await _mediator.Send(new GetAllCountryQuery() { parentId = 0 }), "Id", "NameA");
+        ViewBag.Countries = new SelectList(await _mediator.Send(new GetAllCountryQuery() { parentId = 0 }), "Id", "Name");
 
         CountryDTO? countryDTO = await _mediator.Send(new GetCountryByIdQuery() { Id = id });
 
@@ -80,7 +80,7 @@ public class CountryController : Controller
     [HttpPost]
     public async Task<IActionResult> Form(CountryDTO model)
     {
-        ViewBag.Countries = new SelectList(await _mediator.Send(new GetAllCountryQuery() { parentId = 0 }), "Id", "NameA");
+        ViewBag.Countries = new SelectList(await _mediator.Send(new GetAllCountryQuery() { parentId = 0 }), "Id", "Name");
 
         if (model.Id > 0)
         {
