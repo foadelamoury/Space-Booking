@@ -1,0 +1,85 @@
+﻿@using Application.Features.User.Models
+@model UserDTO
+@{
+    Layout = "_Layout";
+    var TableName = "User";
+ 
+
+    if (Model.Id > 0)
+    {
+    ViewData["Title"] = "Edit " +TableName + ":" + @Model.Name;
+        <h1>@ViewData["Title"]</h1>
+    } 
+    
+   
+  else
+  {
+        ViewData["Title"] = "Add " + TableName;
+        <h1>@ViewData["Title"]</h1>
+
+  }
+}
+
+   
+
+<form asp-action="Form" method="post"  enctype="multipart/form-data">
+   
+      
+
+          
+    <input type="hidden" asp-for="Id" />
+
+   
+
+    <div class="form-group col-md-6">
+        Name
+        <input asp-for="Name"/>
+        <span asp-validation-for="Name"></span>
+    </div>
+
+   
+   
+ 
+    <div class="form-group col-md-6">
+        PhoneNumber1
+        <input asp-for="phoneNumber1" />
+        <span asp-validation-for="phoneNumber1"></span>
+    </div>
+
+    <div class="form-group col-md-6">
+        PhoneNumber2
+        <input asp-for="phoneNumber2" />
+        <span asp-validation-for="phoneNumber2"></span>
+    </div>
+
+
+
+
+
+        <Select asp-for="StreetId" asp-items="@ViewBag.Countries">
+
+                <option selected="selected">اختر</option>
+                
+            </Select>
+
+
+
+
+
+    <input type="submit" class="btn btn-primary btn-main-bg m-1" value="حفظ" />
+
+    <a href="@Url.ActionLink("index")" aria-expanded="false" 
+    class="btn btn-primary bg-primary-700 text-white btn-icon rounded-circle mx-1 waves-effect waves-themed" 
+    style="font-size:large">
+    <i class="fa fa-edit " data-toggle="tooltip" data-placement="top">Back</i></a>
+
+	
+</form>
+
+<script>
+    $("#CountryId").select2({ containerCssClass: "CountryId" });
+  
+</script>
+
+
+
