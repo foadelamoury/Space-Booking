@@ -1,4 +1,4 @@
-﻿@using Application.Features.Country.Models
+@using Application.Features.Country.Models
 @model CountryDTO
 @{
     Layout = "_Layout";
@@ -19,7 +19,7 @@
   }
 }
 
-   <div asp-validation-summary="ModelOnly"></div>
+   <div asp-validation-summary="All"></div>
 
 <form asp-action="Form" class="pure-form" method="post"  enctype="multipart/form-data">
    
